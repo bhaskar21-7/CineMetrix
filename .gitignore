@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.code-workspace
+
+# Power BI cache / temp (keep the actual .pbix file tracked)
+*.pbix.bak
+~$*.pbix
+
+# Logs
+*.log
+
+# Environment variables (if you ever add any API keys, etc.)
+.env
