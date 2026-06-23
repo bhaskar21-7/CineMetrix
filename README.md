@@ -1,3 +1,11 @@
+# 🎬 CineMetrix
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-E50914?style=for-the-badge)](https://bhaskar21-7.github.io/CineMetrix/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/bhaskar21-7/CineMetrix)
+
+### Interactive Netflix Content Analytics Dashboard using Python and Power BI
+
+---
 # 📊 Dashboard Preview
 
 ## Executive Overview
@@ -39,10 +47,6 @@ Detailed exploration of genres and cast members.
 ![Content Deep Dive](images/Dashboard/Content_Deep_Dive.png)
 
 ---
-
-# 🎬 CineMetrix
-
-### Interactive Netflix Content Analytics Dashboard using Python and Power BI
 
 CineMetrix explores Netflix's content catalog to uncover trends in content growth, geographical distribution, ratings, genres, and cast popularity. The project combines data cleaning, exploratory analysis, and interactive dashboard design to transform raw data into business insights.
 
