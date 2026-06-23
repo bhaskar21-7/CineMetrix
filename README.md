@@ -2,16 +2,16 @@
 
 ## Executive Overview
 
-![Executive Overview](images/Dashboard/page1.png)
+![Executive Overview](images/Dashboard/Executive_Overview.png)
 
 ---
 
 ## Global Footprint
 
-![Global Footprint](images/Dashboard/page2.png)
+![Global Footprint](images/Dashboard/Global_Footprint.png)
 
 ---
 
 ## Content Deep Dive
 
-![Content Deep Dive](images/Dashboard/page3.png)
+![Content Deep Dive](images/Dashboard/Content_Deep_Dive.png)
