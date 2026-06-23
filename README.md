@@ -1,10 +1,26 @@
-# 🎬 CineMetrix
+<h1 align="center">
+🎬 CineMetrix
+</h1>
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-E50914?style=for-the-badge)](https://bhaskar21-7.github.io/CineMetrix/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/bhaskar21-7/CineMetrix)
+<h3 align="center">
+Netflix Content Analytics Dashboard
+</h3>
 
-### Interactive Netflix Content Analytics Dashboard using Python and Power BI
+<p align="center">
+Stories Hidden Behind 7,787 Titles
+</p>
 
+<p align="center">
+
+<a href="https://bhaskar21-7.github.io/CineMetrix/">
+<img src="https://img.shields.io/badge/🎬_EXPLORE_PROJECT-E50914?style=for-the-badge&labelColor=000000"/>
+</a>
+
+<a href="https://github.com/bhaskar21-7/CineMetrix">
+<img src="https://img.shields.io/badge/SOURCE_CODE-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 ---
 # 📊 Dashboard Preview
 
