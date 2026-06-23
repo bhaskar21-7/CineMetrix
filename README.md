@@ -123,7 +123,7 @@ CineMetrix/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/CineMetrix.git
+git clone https://github.com/bhaskar21-7/CineMetrix.git
 ```
 
 Install dependencies:
@@ -140,6 +140,6 @@ Launch the notebooks sequentially to reproduce the analysis.
 
 **Bhaskar Jha**
 
-B.Sc. Statistics | Aspiring Data Scientist
+B.Sc. Statistics | Will Be Best Data Scientist
 
 GitHub: https://github.com/bhaskar21-7
